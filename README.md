@@ -57,8 +57,8 @@ Develop a web application using the framework or tool of your choice. The applic
 └── README.md           # Project documentation
 
 ```
-🛠️ Setup and Installation
-Prerequisites
-Python 3.8+
-Streamlit
-Plotly
+**🛠️ Setup and Installation**
+Prerequisites:
+- Python 3.8+
+- Streamlit
+- Plotly
