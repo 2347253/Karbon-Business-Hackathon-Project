@@ -58,7 +58,19 @@ Develop a web application using the framework or tool of your choice. The applic
 
 ```
 **🛠️ Setup and Installation**
-Prerequisites:
-- Python 3.8+
-- Streamlit
-- Plotly
+## 🛠️ Setup and Installation
+
+### Prerequisites
+Ensure that the following are installed on your system:
+- Python 3.8 or higher
+- [Streamlit](https://streamlit.io/)
+- [Plotly](https://plotly.com/python/)
+
+### Installation Steps
+
+1. **Clone the Repository**  
+   Clone the GitHub repository to your local system using the following command:
+   ```bash
+   git clone https://github.com/your-username/financial-analysis-app.git
+   cd financial-analysis-app
+
