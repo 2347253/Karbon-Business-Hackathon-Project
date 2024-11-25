@@ -57,7 +57,6 @@ Develop a web application using the framework or tool of your choice. The applic
 └── README.md           # Project documentation
 
 ```
-**🛠️ Setup and Installation**
 ## 🛠️ Setup and Installation
 
 ### Prerequisites
@@ -73,4 +72,12 @@ Ensure that the following are installed on your system:
    ```bash
    git clone https://github.com/your-username/financial-analysis-app.git
    cd financial-analysis-app
+2. **Install Dependencies**  
+   Install all required Python libraries from requirements.txt: 
+   ```bash
+   pip install -r requirements.txt
+3. **Run the Application**  
+   Start the Streamlit application with:
+   ```bash
+   streamlit run app.py
 
