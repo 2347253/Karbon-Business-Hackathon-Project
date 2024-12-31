@@ -84,7 +84,7 @@ Ensure that the following are installed on your system:
 ## Screenshots 💻
 
  
-[Main Page](Home_page.png)
-[Analysis Page](analysis.png)
-[Visualizatoin](analysis2.png)
+![Main Page](Home_page.png)
+![Analysis Page](analysis.png)
+![Visualizatoin](analysis2.png)
 
