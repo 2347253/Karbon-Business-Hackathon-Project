@@ -81,3 +81,8 @@ Ensure that the following are installed on your system:
    ```bash
    streamlit run app.py
 
+## Screenshots 💻
+
+ 
+[Main Page](home_page.png)
+[Analysis Page](analysis.png)
