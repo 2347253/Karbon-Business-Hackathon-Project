@@ -81,10 +81,17 @@ Ensure that the following are installed on your system:
    ```bash
    streamlit run app.py
 
+## Hosted :
+[Financial Analysis](https://karbon-3tymrqbxbsubejtpborjgj.streamlit.app/)
+
+(Upload the data.json from this repo)
+
 ## Screenshots 💻
 
- 
+Main Page
 ![Main Page](Home_page.png)
+Analysis
 ![Analysis Page](analysis.png)
+Visualization
 ![Visualizatoin](analysis2.png)
 
